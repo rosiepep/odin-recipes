@@ -1,1 +1,2 @@
 # odin-recipes
+For this project, I will build a basic recipe website and improve upon my current HTML knowledge. I also hope that I will better understant how to commit to github and manage a repository.
