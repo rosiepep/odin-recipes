@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(235, 214, 175);
+    line-height: 50px;
+}
+
+.recipe {
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(0, 52, 40);
+    line-height: 30px;
+}
